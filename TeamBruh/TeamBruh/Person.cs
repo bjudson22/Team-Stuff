@@ -8,5 +8,7 @@ namespace TeamBruh
 {
     class Person
     {
+        public string Firstame { get; set; }
+        public string address { get; set; }
     }
 }
